@@ -1,0 +1,21 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA1
+
+The following email addresses are no longer accessible for me:
+
+  chexum@shadow.banki.hu
+  chexum@lord.banki.hu
+  *@eon.ml.org
+
+Please use chexum+dev () gmail.com instead.
+
+Thanks,
+Janos
+-----BEGIN PGP SIGNATURE-----
+
+iQCVAwUBRg/J47lVhHb4H7LhAQLF9QQAhjfDPpF99f+rwPE0pmtibZUYw64UwNst
+kjiJEHO6KmMTr2Kc75VibdNEMlEkkGyfcbqsmGqt5TBByjqxEsntDSFOh6dZuhUM
+zB3J7EZ10pVkQfRp0k2f3rX77VJKzu0ke5Ln6uByvNIQQ5ro46HuS7H/fVD0H5Jj
+vgi3tCxYSso=
+=uH9/
+-----END PGP SIGNATURE-----
