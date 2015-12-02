@@ -1,21 +1,51 @@
 -----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
 
-This is to confirm that the owner of the (now deprecated) PGP
-key id F81FB2E1 is registered to use the page at:
+Effective December 2015, I publish this announcement to confirm the
+deprecation of my old PGP/GPG keys, as listed below.  The same document
+is available signed with both the new and the old keys.
+
+Up-to-date contact/GPG key information may be available at the Google+ page:
 
 https://plus.google.com/113989473308531818393
 
-Key fingerprint = 41 B7 E4 E6 3E D4 A6 71  6D 9C F3 9F F2 BF DF 6E
+The NEW key is:
 
-The current PGP/GPG key to use is (A16097D531FEF366)
+pub   rsa2048/0x086DC2A6D40B9D04 2015-11-01 [expires: 2018-02-01]
+      Key fingerprint = 2E5F 330E AC3E 95F2 4266  48BD 086D C2A6 D40B 9D04
+uid                   [ultimate] Janos Farkas <chexum+dev@gmail.com>
+sub   rsa2048/0x47C3B3B2C385E16D 2015-11-01 [expires: 2018-02-01]
+sub   rsa2048/0x5E83E2BF9675273D 2015-11-01 [expires: 2018-02-01]
 
-Key fingerprint = A9FB A470 9475 F758 F84A  FB84 A160 97D5 31FE F366
+The DEPRECATED keys are as follows:
+
+pub   1024D/0xA16097D531FEF366 2007-12-02 [expires: 2016-01-01]
+      Key fingerprint = A9FB A470 9475 F758 F84A  FB84 A160 97D5 31FE F366
+uid                 [ultimate] OLD KEY (AFTER 2015 - USE 086DC2A6D40B9D04)
+uid                 [ultimate] Janos Farkas <chexum+dev@gmail.com>
+sub   2048g/0x69E4174B24538612 2007-12-02 [expires: 2016-01-01]
+
+and:
+
+pub   1024R/0xB9558476F81FB2E1 1996-07-10
+      Key fingerprint = 41 B7 E4 E6 3E D4 A6 71  6D 9C F3 9F F2 BF DF 6E
+uid                 [ultimate] OLD KEY (AFTER 2015 - USE 086DC2A6D40B9D04)
+
+Should there be any questions, please contact me on the uid of the new
+key, or any recent uid added to it.
 
 -----BEGIN PGP SIGNATURE-----
 
-iQCVAwUBTxqmdblVhHb4H7LhAQEV2wQAlT3xyHg0OPRHiqrXzcUUHPZTjScXn+11
-vdTS0BsUtkWFTGaI8wZqS8325QgQpopF+LpmphzpuFxfkLyl470N7PilRQnsTn2m
-vo279Q8SPSJlkkMVl1/jjXi3pzEja6QGc7oQl2JbcQJpu7uG3YJ9vP4WAuuqps+o
-ZcudXhO8shg=
-=TLZL
+iQEcBAEBCgAGBQJWX1RDAAoJEAhtwqbUC50EVHkIAIbOUCEZaWBEqmJwL2VZ8O0k
+oXin88INkGM9gdQk0R0Kj8TnafC+UEOZRywmzmrexWnIITJ9zsQSMJgvTkk2FmBV
+p7OKbmxJqDn0vO49HrRysyJlwhxsRt2RjMQWMOK2+EC0MqA7wzowoUCBDVF97ZMr
+IEox4U2Dh7dRL2c5NP8UGhVyszg+Ug4vFKgKMFcr0acj54XMQ01QnkRqkoEznCZI
+pHZHzNZcn+9/YfjDH3Rb/QFc19nAp7DPHsuYle79YZPrCF7xYbiLNchT+YWYF1c3
+ta0jlhVTkQW7u33+JHmpDQQOoT4P5QRwPuMgT57prAHQ/4TZYy3vsg8tBZjWQwaJ
+AJUDBQFWX0yOuVWEdvgfsuEBCha+A/91JxCrCsSXcx7hRqT7fS6DhrudlE3oX8lh
+J+1wce3eFqqPqXDWAHkC0xh1ybVx0ZxAYB+zLm9DB4WE9Qu8LuGllAQcxYyBR/mb
+DTtXLEC3W9iVZ4Pv0P4xWyTz5gfpr64PU8TUmhRDjmYNQgeXi8pW1HQtl2Be6L+d
+xFuCO3YMjohGBAERCgAGBQJWX0yHAAoJEKFgl9Ux/vNm1A0AoM66CE/ipttytuZM
+gB+yT17Fu/z6AJ9LpXT+mQDCZexe9bAVJM1m9OhNQw==
+=9qrU
 -----END PGP SIGNATURE-----
